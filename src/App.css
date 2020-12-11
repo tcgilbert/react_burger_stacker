@@ -1,3 +1,13 @@
+.container {
+  margin: 200px 100px;
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  border: solid 2px red;
+}
+
 .App {
   text-align: center;
 }
